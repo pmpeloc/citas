@@ -2,7 +2,7 @@
 
 Proyecto demostrativo de funcionamiento de una app que permite gestionar las citas veterinarias. Se creó con create-react-app.
 
-Enlace a la [Citas App](https://github.com/facebook/create-react-app).
+Enlace a la [Citas App](https://serene-keller-2abd28.netlify.app/).
 
 ## Ejecutar los siguientes comandos
 
